@@ -74,6 +74,14 @@ O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com div
 
 ---
 
+## 📌 Responsabilidades
+
+- Product Owner: responsável pelo backlog e prioridades
+- Scrum Master: responsável pela organização das sprints
+- Desenvolvedores: responsáveis pela execução das tarefas
+
+---
+
 ## 🚀 Status do Projeto
 
 Em fase de planejamento e organização.
