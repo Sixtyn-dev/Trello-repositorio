@@ -27,3 +27,13 @@ Finalizar o sistema e adicionar funcionalidades extras.
 ## 🚀 Resultado Esperado
 - Sistema completo e funcional
 - Pronto para apresentação
+
+## 🧠 Ajustes finais
+
+- Implementar sistema de logout → Mohammed
+- Implementar edição de perfil → Eduarda Gnoatto
+- Criar sistema de curtidas → Luiz Guidelli
+- Adicionar postagem anônima → Israel Lima
+- Testar funcionalidades → João Anciutti
+- Corrigir bugs gerais → Todos
+- Melhorar desempenho → Todos
