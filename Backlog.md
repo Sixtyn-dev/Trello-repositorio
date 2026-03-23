@@ -49,3 +49,13 @@
 - Organizar tarefas no Trello
 - Criar repositório no GitHub
 - Realizar commits das tarefas
+
+## 📊 Organização e extras
+
+- Implementar sistema de logout
+- Implementar edição de perfil de usuário
+- Adicionar opção de postagem anônima
+- Criar sistema de curtidas nas publicações
+- Testar funcionalidades do sistema
+- Corrigir bugs gerais
+- Melhorar desempenho da aplicação
