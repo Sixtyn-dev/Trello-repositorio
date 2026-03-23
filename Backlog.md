@@ -1,0 +1,26 @@
+# Backlog do Projeto
+
+- Desenvolver aba de denuncia
+- Desenvolver aba de suporte
+- criar um layout
+- desenvolver aba de login
+- desenvolver chat para meio de informações
+- desenvolver um menu de navegação
+- desenvolver pagina de interatividade
+- criar uma pagina com os termos de privacidade do site
+- criar pagina de duvidas
+- Sistema de perfil de usuário
+- Sistema de comentários nas publicações
+- Sistema de denúncia de conteúdo
+- Sistema de categorias de conteúdo
+- Sistema de busca
+- Sistema de notificações
+- desenvolver meio legal de compartilhamento de informações
+- criar um modelo de interface
+- criar pagina de novidades e conteudos
+- Sistema de moderação (admin / moderadores)
+- Sistema de reputação de usuários
+- Sistema de proteção contra spam e bots
+- ideia inicial do projeto
+- desenvolver um nome para o projeto
+- Criar landing page oficial do projeto
