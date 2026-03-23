@@ -66,11 +66,11 @@ O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com div
 
 ## 👥 Equipe
 
-- Nome do integrante 1 - Product Owner
-- Nome do integrante 2 - Scrum Master
-- Nome do integrante 3 - Desenvolvedor
-- Nome do integrante 4 - Desenvolvedor
-- Nome do integrante 5 - Desenvolvedor
+- João Anciutti - Product Owner (PO)
+- Israel Lima - Scrum Master (SM)
+- Eduarda Gnoatto - Desenvolvedora
+- Mohammed - Desenvolvedor
+- Luiz Guidelli - Desenvolvedor
 
 ---
 
