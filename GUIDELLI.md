@@ -1,7 +1,7 @@
-# Atividades - Eduarda Gnoatto
+# Atividades - Luiz Guidelli
 
 ## 👤 Função
-Desenvolvedora
+Desenvolvedor
 
 ## 📋 Atividades realizadas
 
