@@ -9,7 +9,7 @@ A plataforma tem como objetivo conectar o publico da mesma cidade de forma dinâ
 
 ##  Objetivo
 Criar uma rede social exclusiva para o publico de cada cidade com foco em:
-- Interação entre alunos
+- Interação entre o publico
 - Compartilhamento de informações e eventos
 - Divulgação de festas e novidades
 - Conexão entre pessoas da mesma instituição
