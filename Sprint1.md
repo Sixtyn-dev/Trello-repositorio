@@ -1,34 +1,34 @@
 # Sprint 1
 
-## 📅 Período
+##  Período
 24/03 - 31/03
 
-## 🎯 Objetivo
+##  Objetivo
 Desenvolver a base do sistema, incluindo estrutura inicial, autenticação e interface principal.
 
 ---
 
-## 📋 Tarefas da Sprint
+##  Tarefas da Sprint
 
-### 🔐 Autenticação
+###  Autenticação
 - Sistema de login → Mohammed
 - Sistema de cadastro → Eduarda Gnoatto
 
-### 🎨 Interface
+###  Interface
 - Criar layout inicial → Luiz Guidelli
 - Desenvolver menu de navegação → João Anciutti
 - Criar landing page → Israel Lima
 
-### 👤 Usuário
+###  Usuário
 - Criar sistema de perfil → Mohammed
 
-### 📱 Funcionalidades iniciais
+###  Funcionalidades iniciais
 - Criar feed de postagens → Eduarda Gnoatto
 - Sistema de postagens → Luiz Guidelli
 
 ---
 
-## 👥 Responsáveis
+##  Responsáveis
 
 - João Anciutti - Product Owner
 - Israel Lima - Scrum Master
@@ -38,7 +38,7 @@ Desenvolver a base do sistema, incluindo estrutura inicial, autenticação e int
 
 ---
 
-## 🚀 Resultado Esperado
+##  Resultado Esperado
 Ao final da sprint, o sistema deverá ter:
 - Tela inicial funcionando
 - Login e cadastro básico

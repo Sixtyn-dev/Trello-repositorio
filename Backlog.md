@@ -4,7 +4,7 @@
 - Definir ideia inicial do projeto
 - Definir nome do projeto
 - Definir objetivo da plataforma
-- Definir público-alvo (universitários)
+- Definir público-alvo (Publico geral)
 
 ## 🎨 Interface e Layout
 - Criar modelo de interface (UI)

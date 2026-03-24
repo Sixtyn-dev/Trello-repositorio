@@ -1,14 +1,14 @@
 # Gossip Real
 
-## 📌 Descrição
-O Gossip Real é uma rede social voltada para universitários, onde os usuários podem compartilhar fofocas, avisos de festas, novidades e interagir com outras pessoas da mesma faculdade.
+##  Descrição
+O Gossip Real é uma rede social voltada para o publico, onde os usuários podem compartilhar fofocas, avisos de festas, novidades e interagir com outras pessoas.
 
-A plataforma tem como objetivo conectar estudantes de forma dinâmica, permitindo que conheçam novas pessoas e fiquem por dentro do que acontece no ambiente universitário.
+A plataforma tem como objetivo conectar o publico da mesma cidade de forma dinâmica, permitindo que conheçam novas pessoas e fiquem por dentro do que acontece.
 
 ---
 
-## 🎯 Objetivo
-Criar uma rede social exclusiva para universitários com foco em:
+##  Objetivo
+Criar uma rede social exclusiva para o publico de cada cidade com foco em:
 - Interação entre alunos
 - Compartilhamento de informações e eventos
 - Divulgação de festas e novidades
@@ -16,7 +16,7 @@ Criar uma rede social exclusiva para universitários com foco em:
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 - Sistema de login e cadastro
 - Perfil de usuário
@@ -36,7 +36,7 @@ Criar uma rede social exclusiva para universitários com foco em:
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - HTML
 - CSS
@@ -45,7 +45,7 @@ Criar uma rede social exclusiva para universitários com foco em:
 
 ---
 
-## 📋 Metodologia
+##  Metodologia
 
 O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com divisão de papéis:
 
@@ -55,7 +55,7 @@ O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com div
 
 ---
 
-## 📌 Organização do Projeto
+##  Organização do Projeto
 
 - Backlog do produto
 - Sprints
@@ -64,7 +64,7 @@ O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com div
 
 ---
 
-## 👥 Equipe
+##  Equipe
 
 - João Anciutti - Product Owner (PO)
 - Israel Lima - Scrum Master (SM)
@@ -74,7 +74,7 @@ O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com div
 
 ---
 
-## 📌 Responsabilidades
+##  Responsabilidades
 
 - Product Owner: responsável pelo backlog e prioridades
 - Scrum Master: responsável pela organização das sprints
@@ -82,13 +82,13 @@ O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com div
 
 ---
 
-## 🚀 Status do Projeto
+##  Status do Projeto
 
 Em fase de planejamento e organização.
 
 ---
 
-## 🔗 Links
+##  Links
 
-- Trello: (colocar link aqui)
-- GitHub: (link do repositório)
+- Trello: (https://trello.com/invite/b/69b09d9a63d2af627a6d5730/ATTIde4dd53e29ca6ac27b206faf720bd43d01D65385/gossip-real)
+- GitHub: (https://github.com/Sixtyn-dev/Trello-repositorio)
