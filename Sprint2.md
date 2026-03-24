@@ -11,7 +11,7 @@ Implementar as principais funcionalidades de interação da plataforma.
 ##  Tarefas da Sprint
 
 ### 📱 Interação
-- Sistema de comentários → Eduarda Gnoatto
+- Sistema de comentários → Murilo
 - Sistema de categorias de conteúdo → Luiz Guidelli
 - Sistema de busca → Mohammed
 
@@ -20,7 +20,7 @@ Implementar as principais funcionalidades de interação da plataforma.
 - Compartilhamento de conteúdo → Israel Lima
 
 ###  Páginas
-- Página de novidades → Eduarda Gnoatto
+- Página de novidades → Murilo
 - Página de dúvidas (FAQ) → Luiz Guidelli
 
 ---

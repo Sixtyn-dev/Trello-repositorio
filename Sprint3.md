@@ -12,7 +12,7 @@ Implementar segurança e moderação da plataforma.
 
 ###  Segurança
 - Sistema de denúncia → Mohammed
-- Aba de denúncia → Eduarda Gnoatto
+- Aba de denúncia → Murilo
 - Proteção contra spam e bots → Luiz Guidelli
 
 ###  Moderação

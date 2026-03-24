@@ -12,7 +12,7 @@ Finalizar o sistema e adicionar funcionalidades extras.
 
 ###  Comunicação
 - Chat entre usuários → Mohammed
-- Página de suporte → Eduarda Gnoatto
+- Página de suporte → Murilo
 
 ###  Institucional
 - Página de termos de privacidade → Luiz Guidelli
@@ -31,7 +31,7 @@ Finalizar o sistema e adicionar funcionalidades extras.
 ##  Ajustes finais
 
 - Implementar sistema de logout → Mohammed
-- Implementar edição de perfil → Eduarda Gnoatto
+- Implementar edição de perfil → Murilo
 - Criar sistema de curtidas → Luiz Guidelli
 - Adicionar postagem anônima → Israel Lima
 - Testar funcionalidades → João Anciutti

@@ -12,7 +12,7 @@ Desenvolver a base do sistema, incluindo estrutura inicial, autenticação e int
 
 ###  Autenticação
 - Sistema de login → Mohammed
-- Sistema de cadastro → Eduarda Gnoatto
+- Sistema de cadastro → Murilo
 
 ###  Interface
 - Criar layout inicial → Luiz Guidelli
@@ -23,7 +23,7 @@ Desenvolver a base do sistema, incluindo estrutura inicial, autenticação e int
 - Criar sistema de perfil → Mohammed
 
 ###  Funcionalidades iniciais
-- Criar feed de postagens → Eduarda Gnoatto
+- Criar feed de postagens → Murilo
 - Sistema de postagens → Luiz Guidelli
 
 ---
@@ -32,7 +32,7 @@ Desenvolver a base do sistema, incluindo estrutura inicial, autenticação e int
 
 - João Anciutti - Product Owner
 - Israel Lima - Scrum Master
-- Eduarda Gnoatto - Desenvolvedora
+- Murilo - Desenvolvedor
 - Mohammed - Desenvolvedor
 - Luiz Guidelli - Desenvolvedor
 
