@@ -1,15 +1,15 @@
 # Atividades - João Anciutti
 
-## 👤 Função
+##  Função
 Product Owner
 
-## 📋 Atividades realizadas
+##  Atividades realizadas
 
 - Definiu o backlog do projeto
 - Organizou as prioridades das tarefas
 - Auxiliou na definição das funcionalidades
 - Revisou as entregas da equipe
 
-## 🤝 Participação
+##  Participação
 
 Responsável pela organização geral do projeto e definição das prioridades.
