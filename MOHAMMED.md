@@ -13,4 +13,4 @@ Desenvolvedor
 
 ## 🤝 Participação
 
-Participei ativamente do desenvolvimento do projeto, contribuindo com ideias, organização e execução das tarefas.
+Participei ativamente do desenvolvimento do projeto, contribuindo com ideias, organização e execução das tarefas. 
