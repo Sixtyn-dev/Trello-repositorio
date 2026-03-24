@@ -1,25 +1,25 @@
 # Backlog do Projeto - Gossip Real
 
-## 📌 Planejamento
+##  Planejamento
 - Definir ideia inicial do projeto
 - Definir nome do projeto
 - Definir objetivo da plataforma
 - Definir público-alvo (Publico geral)
 
-## 🎨 Interface e Layout
+##  Interface e Layout
 - Criar modelo de interface (UI)
 - Criar layout inicial do sistema
 - Desenvolver menu de navegação
 - Criar landing page oficial do projeto
 - Desenvolver página de interatividade
 
-## 🔐 Autenticação e Usuário
+##  Autenticação e Usuário
 - Desenvolver sistema de login
 - Desenvolver sistema de cadastro
 - Criar sistema de perfil de usuário
 - Implementar edição de perfil
 
-## 📱 Funcionalidades principais
+##  Funcionalidades principais
 - Desenvolver feed de publicações
 - Criar sistema de postagens
 - Implementar sistema de comentários
@@ -28,29 +28,29 @@
 - Criar sistema de notificações
 - Implementar compartilhamento de conteúdo
 
-## 🚨 Segurança e Moderação
+##  Segurança e Moderação
 - Criar sistema de denúncia de conteúdo
 - Desenvolver aba de denúncia
 - Criar sistema de moderação (admin/moderadores)
 - Implementar sistema de reputação de usuários
 - Criar sistema de proteção contra spam e bots
 
-## 💬 Comunicação
+##  Comunicação
 - Desenvolver chat entre usuários
 - Criar aba de suporte
 - Criar página de dúvidas (FAQ)
 
-## 📄 Páginas institucionais
+##  Páginas institucionais
 - Criar página de termos de privacidade
 - Criar página de novidades e conteúdos
 
-## 📊 Organização e extras
+##  Organização e extras
 - Definir estrutura do projeto
 - Organizar tarefas no Trello
 - Criar repositório no GitHub
 - Realizar commits das tarefas
 
-## 📊 Organização e extras
+## Organização e extras
 
 - Implementar sistema de logout
 - Implementar edição de perfil de usuário
