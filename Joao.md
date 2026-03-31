@@ -1,4 +1,4 @@
-# Atividades - Israel Lima
+# Atividades - João Anciutti
 
 ##  Função
 Scrum Master
