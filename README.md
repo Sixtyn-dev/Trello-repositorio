@@ -66,10 +66,10 @@ O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com div
 
 ##  Equipe
 
-- João Anciutti - Product Owner (PO)
-- Israel Lima - Scrum Master (SM)
+- Mohammed - Product Owner (PO)
+- João Anciutti - Scrum Master (SM)
 - Murilo - Desenvolvedora
-- Mohammed - Desenvolvedor
+- Israel Lima - Desenvolvedor
 - Luiz Guidelli - Desenvolvedor
 
 ---
